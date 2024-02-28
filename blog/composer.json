@@ -1,0 +1,14 @@
+{
+    "name": "mrho/blog",
+    "autoload": {
+        "psr-4": {
+            "Mrho\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "skip"
+        }
+    ],
+    "require": {}
+}
